@@ -5,6 +5,11 @@ h1{
 body{
     background: 
 }
+span{
+    width = 50;
+    height = 50;
+    background = #FFECE6;
+    border_radius = 8px;
 #myskills{}
 #mysuperpower{}
 #mywork{}
