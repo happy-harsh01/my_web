@@ -8,8 +8,9 @@ h1{
 .box{
     width: 50;
     height: 50;
-    background-color: #FFECE6;
+    background-color: #5AE0E0;
     border-radius: 8px;
+    border: 2px solid black;
 }
 #myskills{}
 #mysuperpower{}
