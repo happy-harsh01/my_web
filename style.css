@@ -6,10 +6,10 @@ body{
     background: #F5F3F2;
 }
 span{
-    width = 50;
-    height = 50;
-    background-color = #FFECE6;
-    border-radius = 8px;
+    width: 50;
+    height: 50;
+    background-color: #FFECE6;
+    border-radius: 8px;
 #myskills{}
 #mysuperpower{}
 #mywork{}
