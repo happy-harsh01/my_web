@@ -5,11 +5,12 @@ h1{
 /*body{
     background: #F5F3F2;
 }*/
-span{
+.box{
     width: 50;
     height: 50;
     background-color: #FFECE6;
     border-radius: 8px;
+}
 #myskills{}
 #mysuperpower{}
 #mywork{}
