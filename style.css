@@ -1,9 +1,9 @@
 h1{ 
-    colour : red;
+    colour : #E3805F;
     background : #C5FF24;
 }
 body{
-    background-colour: #E3805F;
+    background: #E3805F;
 }
 span{
     width = 50;
