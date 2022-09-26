@@ -3,13 +3,13 @@ h1{
     background : #C5FF24;
 }
 body{
-    background_colour: #E3805F;
+    background-colour: #E3805F;
 }
 span{
     width = 50;
     height = 50;
-    background_colour = #FFECE6;
-    border_radius = 8px;
+    background-colour = #FFECE6;
+    border-radius = 8px;
 #myskills{}
 #mysuperpower{}
 #mywork{}
